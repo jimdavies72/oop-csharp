@@ -6,7 +6,7 @@
 ### Description
 A tutorial explaining the fundamental principles of Object Oriented programming in C#
 
-This tutorial covers the follwing topics:
+This tutorial covers the following topics:
 
   - Abstraction
   - Composition
